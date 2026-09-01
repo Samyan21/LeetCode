@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Samyan21/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
