@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Samyan21/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
