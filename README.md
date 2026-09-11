@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samyan21/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Samyan21/LeetCode/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/Samyan21/LeetCode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samyan21/LeetCode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Samyan21/LeetCode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
