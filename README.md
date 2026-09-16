@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Samyan21/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
