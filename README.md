@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Samyan21/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Samyan21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Samyan21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samyan21/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Samyan21/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Samyan21/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -94,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Samyan21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Samyan21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
