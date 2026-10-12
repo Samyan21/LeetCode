@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samyan21/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Samyan21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Samyan21/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Samyan21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Samyan21/LeetCode/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/Samyan21/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
