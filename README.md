@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Samyan21/LeetCode/tree/master/0705-design-hashset) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Samyan21/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Samyan21/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1436-destination-city](https://github.com/Samyan21/LeetCode/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/Samyan21/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Samyan21/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Samyan21/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Samyan21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Samyan21/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/Samyan21/LeetCode/tree/master/1436-destination-city) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/Samyan21/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Samyan21/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/Samyan21/LeetCode/tree/master/1436-destination-city) |
 ## Counting
 |  |
 | ------- |
