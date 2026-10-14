@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Samyan21/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Samyan21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Samyan21/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Samyan21/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/Samyan21/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/Samyan21/LeetCode/tree/master/1436-destination-city) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Samyan21/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
