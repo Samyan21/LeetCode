@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Samyan21/LeetCode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Samyan21/LeetCode/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -201,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Samyan21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Samyan21/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Samyan21/LeetCode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
