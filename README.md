@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Samyan21/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Samyan21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samyan21/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Samyan21/LeetCode/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Samyan21/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Samyan21/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Samyan21/LeetCode/tree/master/0383-ransom-note) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Samyan21/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Samyan21/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Samyan21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Samyan21/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Samyan21/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Samyan21/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Samyan21/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Samyan21/LeetCode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Samyan21/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Database
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Samyan21/LeetCode/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Samyan21/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
